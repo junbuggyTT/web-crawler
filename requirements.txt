@@ -1,0 +1,5 @@
+lxml
+beautifulsoup4
+nltk
+networkx
+cbor
